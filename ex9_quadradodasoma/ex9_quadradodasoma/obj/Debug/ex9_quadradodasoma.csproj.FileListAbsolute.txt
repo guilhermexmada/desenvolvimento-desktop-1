@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex9_quadradodasoma\ex9_quadradodasoma\bin\Debug\ex9_quadradodasoma.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex9_quadradodasoma\ex9_quadradodasoma\bin\Debug\ex9_quadradodasoma.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex9_quadradodasoma\ex9_quadradodasoma\bin\Debug\ex9_quadradodasoma.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex9_quadradodasoma\ex9_quadradodasoma\obj\Debug\ex9_quadradodasoma.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex9_quadradodasoma\ex9_quadradodasoma\obj\Debug\ex9_quadradodasoma.pdb

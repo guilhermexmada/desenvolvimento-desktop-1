@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex52_indice_poluicao\ex52_indice_poluicao\bin\Debug\ex52_indice_poluicao.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex52_indice_poluicao\ex52_indice_poluicao\bin\Debug\ex52_indice_poluicao.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex52_indice_poluicao\ex52_indice_poluicao\bin\Debug\ex52_indice_poluicao.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex52_indice_poluicao\ex52_indice_poluicao\obj\Debug\ex52_indice_poluicao.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex52_indice_poluicao\ex52_indice_poluicao\obj\Debug\ex52_indice_poluicao.pdb

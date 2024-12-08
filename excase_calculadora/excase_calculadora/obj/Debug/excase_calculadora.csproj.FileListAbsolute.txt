@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_calculadora\excase_calculadora\bin\Debug\excase_calculadora.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_calculadora\excase_calculadora\bin\Debug\excase_calculadora.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_calculadora\excase_calculadora\bin\Debug\excase_calculadora.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_calculadora\excase_calculadora\obj\Debug\excase_calculadora.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_calculadora\excase_calculadora\obj\Debug\excase_calculadora.pdb

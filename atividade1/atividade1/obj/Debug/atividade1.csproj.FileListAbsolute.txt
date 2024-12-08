@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade1\atividade1\bin\Debug\atividade1.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade1\atividade1\bin\Debug\atividade1.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade1\atividade1\bin\Debug\atividade1.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade1\atividade1\obj\Debug\atividade1.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade1\atividade1\obj\Debug\atividade1.pdb

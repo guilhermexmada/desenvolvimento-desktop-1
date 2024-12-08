@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex38_faixasdeidade\ex38_faixasdeidade\bin\Debug\ex38_faixasdeidade.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex38_faixasdeidade\ex38_faixasdeidade\bin\Debug\ex38_faixasdeidade.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex38_faixasdeidade\ex38_faixasdeidade\bin\Debug\ex38_faixasdeidade.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex38_faixasdeidade\ex38_faixasdeidade\obj\Debug\ex38_faixasdeidade.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex38_faixasdeidade\ex38_faixasdeidade\obj\Debug\ex38_faixasdeidade.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex38_faixasdeidade\ex38_faixasdeidade\obj\Debug\ex38_faixasdeidade.pdb

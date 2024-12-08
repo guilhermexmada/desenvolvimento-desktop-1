@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_equacao2grau\ex48_equacao2grau\bin\Debug\ex48_equacao2grau.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_equacao2grau\ex48_equacao2grau\bin\Debug\ex48_equacao2grau.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_equacao2grau\ex48_equacao2grau\bin\Debug\ex48_equacao2grau.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_equacao2grau\ex48_equacao2grau\obj\Debug\ex48_equacao2grau.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_equacao2grau\ex48_equacao2grau\obj\Debug\ex48_equacao2grau.pdb

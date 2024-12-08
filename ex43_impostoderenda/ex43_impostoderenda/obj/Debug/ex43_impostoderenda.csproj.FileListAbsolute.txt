@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex43_impostoderenda\ex43_impostoderenda\bin\Debug\ex43_impostoderenda.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex43_impostoderenda\ex43_impostoderenda\bin\Debug\ex43_impostoderenda.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex43_impostoderenda\ex43_impostoderenda\bin\Debug\ex43_impostoderenda.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex43_impostoderenda\ex43_impostoderenda\obj\Debug\ex43_impostoderenda.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex43_impostoderenda\ex43_impostoderenda\obj\Debug\ex43_impostoderenda.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex43_impostoderenda\ex43_impostoderenda\obj\Debug\ex43_impostoderenda.pdb

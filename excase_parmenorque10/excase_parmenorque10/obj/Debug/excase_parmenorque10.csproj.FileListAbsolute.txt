@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_parmenorque10\excase_parmenorque10\bin\Debug\excase_parmenorque10.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_parmenorque10\excase_parmenorque10\bin\Debug\excase_parmenorque10.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_parmenorque10\excase_parmenorque10\bin\Debug\excase_parmenorque10.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_parmenorque10\excase_parmenorque10\obj\Debug\excase_parmenorque10.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_parmenorque10\excase_parmenorque10\obj\Debug\excase_parmenorque10.pdb

@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex1\prova100_ex1\bin\Debug\prova100_ex1.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex1\prova100_ex1\bin\Debug\prova100_ex1.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex1\prova100_ex1\bin\Debug\prova100_ex1.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex1\prova100_ex1\obj\Debug\prova100_ex1.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex1\prova100_ex1\obj\Debug\prova100_ex1.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex1\prova100_ex1\obj\Debug\prova100_ex1.pdb

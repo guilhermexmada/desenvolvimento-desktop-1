@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exercicios_case\exercicios_case\bin\Debug\exercicios_case.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exercicios_case\exercicios_case\bin\Debug\exercicios_case.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exercicios_case\exercicios_case\bin\Debug\exercicios_case.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exercicios_case\exercicios_case\obj\Debug\exercicios_case.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exercicios_case\exercicios_case\obj\Debug\exercicios_case.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exercicios_case\exercicios_case\obj\Debug\exercicios_case.pdb

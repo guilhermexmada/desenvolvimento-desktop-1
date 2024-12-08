@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\segundo_exemplo\segundo_exemplo\bin\Debug\segundo_exemplo.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\segundo_exemplo\segundo_exemplo\bin\Debug\segundo_exemplo.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\segundo_exemplo\segundo_exemplo\bin\Debug\segundo_exemplo.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\segundo_exemplo\segundo_exemplo\obj\Debug\segundo_exemplo.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\segundo_exemplo\segundo_exemplo\obj\Debug\segundo_exemplo.pdb

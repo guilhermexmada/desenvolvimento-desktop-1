@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_numeromateria\excase_numeromateria\bin\Debug\excase_numeromateria.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_numeromateria\excase_numeromateria\bin\Debug\excase_numeromateria.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_numeromateria\excase_numeromateria\bin\Debug\excase_numeromateria.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_numeromateria\excase_numeromateria\obj\Debug\excase_numeromateria.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_numeromateria\excase_numeromateria\obj\Debug\excase_numeromateria.pdb

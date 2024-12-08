@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex39_alunosaprovadoreprovado\ex39_alunosaprovadoreprovado\bin\Debug\ex39_alunosaprovadoreprovado.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex39_alunosaprovadoreprovado\ex39_alunosaprovadoreprovado\bin\Debug\ex39_alunosaprovadoreprovado.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex39_alunosaprovadoreprovado\ex39_alunosaprovadoreprovado\bin\Debug\ex39_alunosaprovadoreprovado.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex39_alunosaprovadoreprovado\ex39_alunosaprovadoreprovado\obj\Debug\ex39_alunosaprovadoreprovado.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex39_alunosaprovadoreprovado\ex39_alunosaprovadoreprovado\obj\Debug\ex39_alunosaprovadoreprovado.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex39_alunosaprovadoreprovado\ex39_alunosaprovadoreprovado\obj\Debug\ex39_alunosaprovadoreprovado.pdb

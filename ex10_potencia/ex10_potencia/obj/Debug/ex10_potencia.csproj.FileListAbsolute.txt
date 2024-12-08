@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex10_potencia\ex10_potencia\bin\Debug\ex10_potencia.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex10_potencia\ex10_potencia\bin\Debug\ex10_potencia.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex10_potencia\ex10_potencia\bin\Debug\ex10_potencia.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex10_potencia\ex10_potencia\obj\Debug\ex10_potencia.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex10_potencia\ex10_potencia\obj\Debug\ex10_potencia.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex10_potencia\ex10_potencia\obj\Debug\ex10_potencia.pdb

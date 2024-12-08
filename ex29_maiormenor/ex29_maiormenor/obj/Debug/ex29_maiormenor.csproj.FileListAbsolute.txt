@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex29_maiormenor\ex29_maiormenor\bin\Debug\ex29_maiormenor.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex29_maiormenor\ex29_maiormenor\bin\Debug\ex29_maiormenor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex29_maiormenor\ex29_maiormenor\bin\Debug\ex29_maiormenor.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex29_maiormenor\ex29_maiormenor\obj\Debug\ex29_maiormenor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex29_maiormenor\ex29_maiormenor\obj\Debug\ex29_maiormenor.pdb

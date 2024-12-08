@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex47_sencostg\ex47_sencostg\bin\Debug\ex47_sencostg.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex47_sencostg\ex47_sencostg\bin\Debug\ex47_sencostg.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex47_sencostg\ex47_sencostg\bin\Debug\ex47_sencostg.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex47_sencostg\ex47_sencostg\obj\Debug\ex47_sencostg.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex47_sencostg\ex47_sencostg\obj\Debug\ex47_sencostg.pdb

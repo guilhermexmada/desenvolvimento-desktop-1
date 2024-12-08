@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex20_maiormenorigual30\ex20_maiormenorigual30\bin\Debug\ex20_maiormenorigual30.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex20_maiormenorigual30\ex20_maiormenorigual30\bin\Debug\ex20_maiormenorigual30.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex20_maiormenorigual30\ex20_maiormenorigual30\bin\Debug\ex20_maiormenorigual30.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex20_maiormenorigual30\ex20_maiormenorigual30\obj\Debug\ex20_maiormenorigual30.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex20_maiormenorigual30\ex20_maiormenorigual30\obj\Debug\ex20_maiormenorigual30.pdb

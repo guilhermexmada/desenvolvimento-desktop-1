@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_codigo_comida\ex57_codigo_comida\bin\Debug\ex57_codigo_comida.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_codigo_comida\ex57_codigo_comida\bin\Debug\ex57_codigo_comida.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_codigo_comida\ex57_codigo_comida\bin\Debug\ex57_codigo_comida.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_codigo_comida\ex57_codigo_comida\obj\Debug\ex57_codigo_comida.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_codigo_comida\ex57_codigo_comida\obj\Debug\ex57_codigo_comida.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_codigo_comida\ex57_codigo_comida\obj\Debug\ex57_codigo_comida.pdb

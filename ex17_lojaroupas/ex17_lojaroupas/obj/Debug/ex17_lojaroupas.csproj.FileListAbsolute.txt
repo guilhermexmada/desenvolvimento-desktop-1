@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex17_lojaroupas\ex17_lojaroupas\bin\Debug\ex17_lojaroupas.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex17_lojaroupas\ex17_lojaroupas\bin\Debug\ex17_lojaroupas.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex17_lojaroupas\ex17_lojaroupas\bin\Debug\ex17_lojaroupas.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex17_lojaroupas\ex17_lojaroupas\obj\Debug\ex17_lojaroupas.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex17_lojaroupas\ex17_lojaroupas\obj\Debug\ex17_lojaroupas.pdb

@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade 2 circunferencia\atividade 2 circunferencia\bin\Debug\atividade 2 circunferencia.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade 2 circunferencia\atividade 2 circunferencia\bin\Debug\atividade 2 circunferencia.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade 2 circunferencia\atividade 2 circunferencia\bin\Debug\atividade 2 circunferencia.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade 2 circunferencia\atividade 2 circunferencia\obj\Debug\atividade 2 circunferencia.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\atividade 2 circunferencia\atividade 2 circunferencia\obj\Debug\atividade 2 circunferencia.pdb

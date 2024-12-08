@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex22_positivoouquadrado\ex22_positivoouquadrado\bin\Debug\ex22_positivoouquadrado.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex22_positivoouquadrado\ex22_positivoouquadrado\bin\Debug\ex22_positivoouquadrado.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex22_positivoouquadrado\ex22_positivoouquadrado\bin\Debug\ex22_positivoouquadrado.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex22_positivoouquadrado\ex22_positivoouquadrado\obj\Debug\ex22_positivoouquadrado.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex22_positivoouquadrado\ex22_positivoouquadrado\obj\Debug\ex22_positivoouquadrado.pdb

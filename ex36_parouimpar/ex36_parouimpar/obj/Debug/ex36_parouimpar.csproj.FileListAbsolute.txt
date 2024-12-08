@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex36_parouimpar\ex36_parouimpar\bin\Debug\ex36_parouimpar.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex36_parouimpar\ex36_parouimpar\bin\Debug\ex36_parouimpar.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex36_parouimpar\ex36_parouimpar\bin\Debug\ex36_parouimpar.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex36_parouimpar\ex36_parouimpar\obj\Debug\ex36_parouimpar.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex36_parouimpar\ex36_parouimpar\obj\Debug\ex36_parouimpar.pdb

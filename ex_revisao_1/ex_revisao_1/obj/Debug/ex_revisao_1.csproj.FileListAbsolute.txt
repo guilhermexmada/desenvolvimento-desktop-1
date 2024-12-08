@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_1\ex_revisao_1\bin\Debug\ex_revisao_1.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_1\ex_revisao_1\bin\Debug\ex_revisao_1.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_1\ex_revisao_1\bin\Debug\ex_revisao_1.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_1\ex_revisao_1\obj\Debug\ex_revisao_1.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_1\ex_revisao_1\obj\Debug\ex_revisao_1.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_1\ex_revisao_1\obj\Debug\ex_revisao_1.pdb

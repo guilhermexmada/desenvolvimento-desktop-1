@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex50_switchcase_funcionarios\ex50_switchcase_funcionarios\bin\Debug\ex50_switchcase_funcionarios.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex50_switchcase_funcionarios\ex50_switchcase_funcionarios\bin\Debug\ex50_switchcase_funcionarios.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex50_switchcase_funcionarios\ex50_switchcase_funcionarios\bin\Debug\ex50_switchcase_funcionarios.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex50_switchcase_funcionarios\ex50_switchcase_funcionarios\obj\Debug\ex50_switchcase_funcionarios.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex50_switchcase_funcionarios\ex50_switchcase_funcionarios\obj\Debug\ex50_switchcase_funcionarios.pdb

@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex13_volumecubo\ex13_volumecubo\bin\Debug\ex13_volumecubo.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex13_volumecubo\ex13_volumecubo\bin\Debug\ex13_volumecubo.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex13_volumecubo\ex13_volumecubo\bin\Debug\ex13_volumecubo.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex13_volumecubo\ex13_volumecubo\obj\Debug\ex13_volumecubo.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex13_volumecubo\ex13_volumecubo\obj\Debug\ex13_volumecubo.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex13_volumecubo\ex13_volumecubo\obj\Debug\ex13_volumecubo.pdb

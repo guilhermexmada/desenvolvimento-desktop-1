@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex3\prova100_ex3\bin\Debug\prova100_ex3.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex3\prova100_ex3\bin\Debug\prova100_ex3.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex3\prova100_ex3\bin\Debug\prova100_ex3.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex3\prova100_ex3\obj\Debug\prova100_ex3.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\prova100_ex3\prova100_ex3\obj\Debug\prova100_ex3.pdb

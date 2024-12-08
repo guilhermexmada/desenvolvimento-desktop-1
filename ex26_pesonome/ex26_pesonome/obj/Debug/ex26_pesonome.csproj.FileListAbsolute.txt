@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex26_pesonome\ex26_pesonome\bin\Debug\ex26_pesonome.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex26_pesonome\ex26_pesonome\bin\Debug\ex26_pesonome.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex26_pesonome\ex26_pesonome\bin\Debug\ex26_pesonome.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex26_pesonome\ex26_pesonome\obj\Debug\ex26_pesonome.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex26_pesonome\ex26_pesonome\obj\Debug\ex26_pesonome.pdb

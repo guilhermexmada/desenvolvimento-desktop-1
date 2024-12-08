@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex54_trimestres_nascimento\ex54_trimestres_nascimento\bin\Debug\ex54_trimestres_nascimento.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex54_trimestres_nascimento\ex54_trimestres_nascimento\bin\Debug\ex54_trimestres_nascimento.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex54_trimestres_nascimento\ex54_trimestres_nascimento\bin\Debug\ex54_trimestres_nascimento.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex54_trimestres_nascimento\ex54_trimestres_nascimento\obj\Debug\ex54_trimestres_nascimento.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex54_trimestres_nascimento\ex54_trimestres_nascimento\obj\Debug\ex54_trimestres_nascimento.pdb

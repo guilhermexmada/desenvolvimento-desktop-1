@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex3_todasoperacoes\ex3_todasoperacoes\bin\Debug\ex3_todasoperacoes.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex3_todasoperacoes\ex3_todasoperacoes\bin\Debug\ex3_todasoperacoes.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex3_todasoperacoes\ex3_todasoperacoes\bin\Debug\ex3_todasoperacoes.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex3_todasoperacoes\ex3_todasoperacoes\obj\Debug\ex3_todasoperacoes.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex3_todasoperacoes\ex3_todasoperacoes\obj\Debug\ex3_todasoperacoes.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex3_todasoperacoes\ex3_todasoperacoes\obj\Debug\ex3_todasoperacoes.pdb

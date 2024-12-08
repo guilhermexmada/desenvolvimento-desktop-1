@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex35_timegols\ex35_timegols\bin\Debug\ex35_timegols.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex35_timegols\ex35_timegols\bin\Debug\ex35_timegols.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex35_timegols\ex35_timegols\bin\Debug\ex35_timegols.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex35_timegols\ex35_timegols\obj\Debug\ex35_timegols.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex35_timegols\ex35_timegols\obj\Debug\ex35_timegols.pdb

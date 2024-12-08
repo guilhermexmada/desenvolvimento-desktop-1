@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex16_produtodesconto\ex16_produtodesconto\bin\Debug\ex16_produtodesconto.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex16_produtodesconto\ex16_produtodesconto\bin\Debug\ex16_produtodesconto.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex16_produtodesconto\ex16_produtodesconto\bin\Debug\ex16_produtodesconto.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex16_produtodesconto\ex16_produtodesconto\obj\Debug\ex16_produtodesconto.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex16_produtodesconto\ex16_produtodesconto\obj\Debug\ex16_produtodesconto.pdb

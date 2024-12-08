@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_produto_pagamento\ex57_produto_pagamento\bin\Debug\ex57_produto_pagamento.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_produto_pagamento\ex57_produto_pagamento\bin\Debug\ex57_produto_pagamento.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_produto_pagamento\ex57_produto_pagamento\bin\Debug\ex57_produto_pagamento.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_produto_pagamento\ex57_produto_pagamento\obj\Debug\ex57_produto_pagamento.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex57_produto_pagamento\ex57_produto_pagamento\obj\Debug\ex57_produto_pagamento.pdb

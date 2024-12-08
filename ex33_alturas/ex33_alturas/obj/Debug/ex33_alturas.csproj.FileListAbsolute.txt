@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex33_alturas\ex33_alturas\bin\Debug\ex33_alturas.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex33_alturas\ex33_alturas\bin\Debug\ex33_alturas.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex33_alturas\ex33_alturas\bin\Debug\ex33_alturas.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex33_alturas\ex33_alturas\obj\Debug\ex33_alturas.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex33_alturas\ex33_alturas\obj\Debug\ex33_alturas.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex33_alturas\ex33_alturas\obj\Debug\ex33_alturas.pdb

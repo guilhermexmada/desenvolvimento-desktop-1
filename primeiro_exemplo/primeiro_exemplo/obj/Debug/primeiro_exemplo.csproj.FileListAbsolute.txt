@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\primeiro_exemplo\primeiro_exemplo\bin\Debug\primeiro_exemplo.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\primeiro_exemplo\primeiro_exemplo\bin\Debug\primeiro_exemplo.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\primeiro_exemplo\primeiro_exemplo\bin\Debug\primeiro_exemplo.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\primeiro_exemplo\primeiro_exemplo\obj\Debug\primeiro_exemplo.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\primeiro_exemplo\primeiro_exemplo\obj\Debug\primeiro_exemplo.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\primeiro_exemplo\primeiro_exemplo\obj\Debug\primeiro_exemplo.pdb

@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex11_esfera\ex11_esfera\bin\Debug\ex11_esfera.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex11_esfera\ex11_esfera\bin\Debug\ex11_esfera.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex11_esfera\ex11_esfera\bin\Debug\ex11_esfera.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex11_esfera\ex11_esfera\obj\Debug\ex11_esfera.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex11_esfera\ex11_esfera\obj\Debug\ex11_esfera.pdb

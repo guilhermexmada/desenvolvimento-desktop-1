@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex23_divisaomaiorpormenor\ex23_divisaomaiorpormenor\bin\Debug\ex23_divisaomaiorpormenor.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex23_divisaomaiorpormenor\ex23_divisaomaiorpormenor\bin\Debug\ex23_divisaomaiorpormenor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex23_divisaomaiorpormenor\ex23_divisaomaiorpormenor\bin\Debug\ex23_divisaomaiorpormenor.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex23_divisaomaiorpormenor\ex23_divisaomaiorpormenor\obj\Debug\ex23_divisaomaiorpormenor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex23_divisaomaiorpormenor\ex23_divisaomaiorpormenor\obj\Debug\ex23_divisaomaiorpormenor.pdb

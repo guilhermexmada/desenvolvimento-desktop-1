@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_3\ex_revisao_3\bin\Debug\ex_revisao_3.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_3\ex_revisao_3\bin\Debug\ex_revisao_3.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_3\ex_revisao_3\bin\Debug\ex_revisao_3.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_3\ex_revisao_3\obj\Debug\ex_revisao_3.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_revisao_3\ex_revisao_3\obj\Debug\ex_revisao_3.pdb

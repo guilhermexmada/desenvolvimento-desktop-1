@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\soma\soma\bin\Debug\soma.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\soma\soma\bin\Debug\soma.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\soma\soma\bin\Debug\soma.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\soma\soma\obj\Debug\soma.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\soma\soma\obj\Debug\soma.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\soma\soma\obj\Debug\soma.pdb

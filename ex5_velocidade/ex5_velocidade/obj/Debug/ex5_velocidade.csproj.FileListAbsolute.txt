@@ -1,0 +1,8 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex5_velocidade\ex5_velocidade\bin\Debug\ex5_velocidade.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex5_velocidade\ex5_velocidade\bin\Debug\ex5_velocidade.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex5_velocidade\ex5_velocidade\bin\Debug\ex5_velocidade.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex5_velocidade\ex5_velocidade\obj\Debug\ex5_velocidade.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex5_velocidade\ex5_velocidade\obj\Debug\ex5_velocidade.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex5_velocidade\ex5_velocidade\bin\Debug\ex5_velocidade.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex5_velocidade\ex5_velocidade\obj\Debug\ex5_velocidade.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex5_velocidade\ex5_velocidade\obj\Debug\ex5_velocidade.pdb

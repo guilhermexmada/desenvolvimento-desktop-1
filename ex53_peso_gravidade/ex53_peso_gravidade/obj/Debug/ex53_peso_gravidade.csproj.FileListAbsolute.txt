@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex53_peso_gravidade\ex53_peso_gravidade\bin\Debug\ex53_peso_gravidade.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex53_peso_gravidade\ex53_peso_gravidade\bin\Debug\ex53_peso_gravidade.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex53_peso_gravidade\ex53_peso_gravidade\bin\Debug\ex53_peso_gravidade.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex53_peso_gravidade\ex53_peso_gravidade\obj\Debug\ex53_peso_gravidade.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex53_peso_gravidade\ex53_peso_gravidade\obj\Debug\ex53_peso_gravidade.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex53_peso_gravidade\ex53_peso_gravidade\obj\Debug\ex53_peso_gravidade.pdb

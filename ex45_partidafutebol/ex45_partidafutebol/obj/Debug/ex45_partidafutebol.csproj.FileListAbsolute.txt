@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex45_partidafutebol\ex45_partidafutebol\bin\Debug\ex45_partidafutebol.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex45_partidafutebol\ex45_partidafutebol\bin\Debug\ex45_partidafutebol.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex45_partidafutebol\ex45_partidafutebol\bin\Debug\ex45_partidafutebol.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex45_partidafutebol\ex45_partidafutebol\obj\Debug\ex45_partidafutebol.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex45_partidafutebol\ex45_partidafutebol\obj\Debug\ex45_partidafutebol.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex45_partidafutebol\ex45_partidafutebol\obj\Debug\ex45_partidafutebol.pdb

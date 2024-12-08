@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex24_maisvelho\ex24_maisvelho\bin\Debug\ex24_maisvelho.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex24_maisvelho\ex24_maisvelho\bin\Debug\ex24_maisvelho.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex24_maisvelho\ex24_maisvelho\bin\Debug\ex24_maisvelho.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex24_maisvelho\ex24_maisvelho\obj\Debug\ex24_maisvelho.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex24_maisvelho\ex24_maisvelho\obj\Debug\ex24_maisvelho.pdb

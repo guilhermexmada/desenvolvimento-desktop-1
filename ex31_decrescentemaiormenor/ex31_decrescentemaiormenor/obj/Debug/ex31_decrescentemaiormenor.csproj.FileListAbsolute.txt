@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex31_decrescentemaiormenor\ex31_decrescentemaiormenor\bin\Debug\ex31_decrescentemaiormenor.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex31_decrescentemaiormenor\ex31_decrescentemaiormenor\bin\Debug\ex31_decrescentemaiormenor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex31_decrescentemaiormenor\ex31_decrescentemaiormenor\bin\Debug\ex31_decrescentemaiormenor.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex31_decrescentemaiormenor\ex31_decrescentemaiormenor\obj\Debug\ex31_decrescentemaiormenor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex31_decrescentemaiormenor\ex31_decrescentemaiormenor\obj\Debug\ex31_decrescentemaiormenor.pdb

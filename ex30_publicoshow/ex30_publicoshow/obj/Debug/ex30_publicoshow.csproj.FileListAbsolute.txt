@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex30_publicoshow\ex30_publicoshow\bin\Debug\ex30_publicoshow.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex30_publicoshow\ex30_publicoshow\bin\Debug\ex30_publicoshow.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex30_publicoshow\ex30_publicoshow\bin\Debug\ex30_publicoshow.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex30_publicoshow\ex30_publicoshow\obj\Debug\ex30_publicoshow.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex30_publicoshow\ex30_publicoshow\obj\Debug\ex30_publicoshow.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex30_publicoshow\ex30_publicoshow\obj\Debug\ex30_publicoshow.pdb

@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex28_menorque15\ex28_menorque15\bin\Debug\ex28_menorque15.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex28_menorque15\ex28_menorque15\bin\Debug\ex28_menorque15.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex28_menorque15\ex28_menorque15\bin\Debug\ex28_menorque15.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex28_menorque15\ex28_menorque15\obj\Debug\ex28_menorque15.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex28_menorque15\ex28_menorque15\obj\Debug\ex28_menorque15.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex28_menorque15\ex28_menorque15\obj\Debug\ex28_menorque15.pdb

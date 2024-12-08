@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex44_planodesaude\ex44_planodesaude\bin\Debug\ex44_planodesaude.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex44_planodesaude\ex44_planodesaude\bin\Debug\ex44_planodesaude.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex44_planodesaude\ex44_planodesaude\bin\Debug\ex44_planodesaude.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex44_planodesaude\ex44_planodesaude\obj\Debug\ex44_planodesaude.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex44_planodesaude\ex44_planodesaude\obj\Debug\ex44_planodesaude.pdb

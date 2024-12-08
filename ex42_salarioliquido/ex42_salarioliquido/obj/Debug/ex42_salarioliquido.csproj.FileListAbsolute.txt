@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex42_salarioliquido\ex42_salarioliquido\bin\Debug\ex42_salarioliquido.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex42_salarioliquido\ex42_salarioliquido\bin\Debug\ex42_salarioliquido.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex42_salarioliquido\ex42_salarioliquido\bin\Debug\ex42_salarioliquido.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex42_salarioliquido\ex42_salarioliquido\obj\Debug\ex42_salarioliquido.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex42_salarioliquido\ex42_salarioliquido\obj\Debug\ex42_salarioliquido.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex42_salarioliquido\ex42_salarioliquido\obj\Debug\ex42_salarioliquido.pdb

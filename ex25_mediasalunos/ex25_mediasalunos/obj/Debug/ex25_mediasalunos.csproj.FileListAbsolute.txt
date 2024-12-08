@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex25_mediasalunos\ex25_mediasalunos\bin\Debug\ex25_mediasalunos.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex25_mediasalunos\ex25_mediasalunos\bin\Debug\ex25_mediasalunos.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex25_mediasalunos\ex25_mediasalunos\bin\Debug\ex25_mediasalunos.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex25_mediasalunos\ex25_mediasalunos\obj\Debug\ex25_mediasalunos.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex25_mediasalunos\ex25_mediasalunos\obj\Debug\ex25_mediasalunos.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex25_mediasalunos\ex25_mediasalunos\obj\Debug\ex25_mediasalunos.pdb

@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex37_resto4\ex37_resto4\bin\Debug\ex37_resto4.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex37_resto4\ex37_resto4\bin\Debug\ex37_resto4.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex37_resto4\ex37_resto4\bin\Debug\ex37_resto4.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex37_resto4\ex37_resto4\obj\Debug\ex37_resto4.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex37_resto4\ex37_resto4\obj\Debug\ex37_resto4.pdb

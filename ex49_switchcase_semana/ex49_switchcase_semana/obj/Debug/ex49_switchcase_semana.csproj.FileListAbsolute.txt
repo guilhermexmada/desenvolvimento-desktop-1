@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex49_switchcase_semana\ex49_switchcase_semana\bin\Debug\ex49_switchcase_semana.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex49_switchcase_semana\ex49_switchcase_semana\bin\Debug\ex49_switchcase_semana.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex49_switchcase_semana\ex49_switchcase_semana\bin\Debug\ex49_switchcase_semana.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex49_switchcase_semana\ex49_switchcase_semana\obj\Debug\ex49_switchcase_semana.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex49_switchcase_semana\ex49_switchcase_semana\obj\Debug\ex49_switchcase_semana.pdb

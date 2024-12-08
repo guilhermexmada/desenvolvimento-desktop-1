@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex15_senocossenotangente\ex15_senocossenotangente\bin\Debug\ex15_senocossenotangente.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex15_senocossenotangente\ex15_senocossenotangente\obj\Debug\ex15_senocossenotangente.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex15_senocossenotangente\ex15_senocossenotangente\bin\Debug\ex15_senocossenotangente.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex15_senocossenotangente\ex15_senocossenotangente\bin\Debug\ex15_senocossenotangente.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex15_senocossenotangente\ex15_senocossenotangente\obj\Debug\ex15_senocossenotangente.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex15_senocossenotangente\ex15_senocossenotangente\obj\Debug\ex15_senocossenotangente.pdb

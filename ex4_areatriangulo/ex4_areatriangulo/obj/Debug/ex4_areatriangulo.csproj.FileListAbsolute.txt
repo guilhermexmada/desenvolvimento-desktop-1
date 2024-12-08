@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex4_areatriangulo\ex4_areatriangulo\bin\Debug\ex4_areatriangulo.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex4_areatriangulo\ex4_areatriangulo\bin\Debug\ex4_areatriangulo.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex4_areatriangulo\ex4_areatriangulo\bin\Debug\ex4_areatriangulo.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex4_areatriangulo\ex4_areatriangulo\obj\Debug\ex4_areatriangulo.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex4_areatriangulo\ex4_areatriangulo\obj\Debug\ex4_areatriangulo.pdb

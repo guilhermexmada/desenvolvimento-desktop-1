@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_for_4\ex_for_4\bin\Debug\ex_for_4.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_for_4\ex_for_4\bin\Debug\ex_for_4.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_for_4\ex_for_4\bin\Debug\ex_for_4.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_for_4\ex_for_4\obj\Debug\ex_for_4.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex_for_4\ex_for_4\obj\Debug\ex_for_4.pdb

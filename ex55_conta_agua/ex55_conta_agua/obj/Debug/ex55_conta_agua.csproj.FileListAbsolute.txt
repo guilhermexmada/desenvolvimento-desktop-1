@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex55_conta_agua\ex55_conta_agua\bin\Debug\ex55_conta_agua.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex55_conta_agua\ex55_conta_agua\bin\Debug\ex55_conta_agua.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex55_conta_agua\ex55_conta_agua\bin\Debug\ex55_conta_agua.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex55_conta_agua\ex55_conta_agua\obj\Debug\ex55_conta_agua.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex55_conta_agua\ex55_conta_agua\obj\Debug\ex55_conta_agua.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex55_conta_agua\ex55_conta_agua\obj\Debug\ex55_conta_agua.pdb

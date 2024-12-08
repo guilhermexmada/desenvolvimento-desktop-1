@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_mediaponderada\ex14_mediaponderada\bin\Debug\ex14_mediaponderada.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_mediaponderada\ex14_mediaponderada\bin\Debug\ex14_mediaponderada.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_mediaponderada\ex14_mediaponderada\bin\Debug\ex14_mediaponderada.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_mediaponderada\ex14_mediaponderada\obj\Debug\ex14_mediaponderada.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_mediaponderada\ex14_mediaponderada\obj\Debug\ex14_mediaponderada.pdb

@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex27_pesosexo\ex27_pesosexo\bin\Debug\ex27_pesosexo.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex27_pesosexo\ex27_pesosexo\bin\Debug\ex27_pesosexo.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex27_pesosexo\ex27_pesosexo\bin\Debug\ex27_pesosexo.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex27_pesosexo\ex27_pesosexo\obj\Debug\ex27_pesosexo.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex27_pesosexo\ex27_pesosexo\obj\Debug\ex27_pesosexo.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex27_pesosexo\ex27_pesosexo\obj\Debug\ex27_pesosexo.pdb

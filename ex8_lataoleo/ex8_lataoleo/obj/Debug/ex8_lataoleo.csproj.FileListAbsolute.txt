@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_lataoleo\ex8_lataoleo\bin\Debug\ex8_lataoleo.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_lataoleo\ex8_lataoleo\bin\Debug\ex8_lataoleo.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_lataoleo\ex8_lataoleo\bin\Debug\ex8_lataoleo.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_lataoleo\ex8_lataoleo\obj\Debug\ex8_lataoleo.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_lataoleo\ex8_lataoleo\obj\Debug\ex8_lataoleo.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_lataoleo\ex8_lataoleo\obj\Debug\ex8_lataoleo.pdb

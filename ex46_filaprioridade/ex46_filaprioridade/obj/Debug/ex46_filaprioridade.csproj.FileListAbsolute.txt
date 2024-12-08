@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex46_filaprioridade\ex46_filaprioridade\bin\Debug\ex46_filaprioridade.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex46_filaprioridade\ex46_filaprioridade\bin\Debug\ex46_filaprioridade.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex46_filaprioridade\ex46_filaprioridade\bin\Debug\ex46_filaprioridade.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex46_filaprioridade\ex46_filaprioridade\obj\Debug\ex46_filaprioridade.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex46_filaprioridade\ex46_filaprioridade\obj\Debug\ex46_filaprioridade.pdb

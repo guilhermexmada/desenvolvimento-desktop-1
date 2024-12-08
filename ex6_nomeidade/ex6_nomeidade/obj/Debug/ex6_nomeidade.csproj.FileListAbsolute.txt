@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex6_nomeidade\ex6_nomeidade\bin\Debug\ex6_nomeidade.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex6_nomeidade\ex6_nomeidade\bin\Debug\ex6_nomeidade.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex6_nomeidade\ex6_nomeidade\bin\Debug\ex6_nomeidade.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex6_nomeidade\ex6_nomeidade\obj\Debug\ex6_nomeidade.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex6_nomeidade\ex6_nomeidade\obj\Debug\ex6_nomeidade.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex6_nomeidade\ex6_nomeidade\obj\Debug\ex6_nomeidade.pdb

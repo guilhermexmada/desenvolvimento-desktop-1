@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex51_idade_nadador\ex51_idade_nadador\bin\Debug\ex51_idade_nadador.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex51_idade_nadador\ex51_idade_nadador\bin\Debug\ex51_idade_nadador.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex51_idade_nadador\ex51_idade_nadador\bin\Debug\ex51_idade_nadador.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex51_idade_nadador\ex51_idade_nadador\obj\Debug\ex51_idade_nadador.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex51_idade_nadador\ex51_idade_nadador\obj\Debug\ex51_idade_nadador.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex51_idade_nadador\ex51_idade_nadador\obj\Debug\ex51_idade_nadador.pdb

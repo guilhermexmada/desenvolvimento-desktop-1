@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex41_aposentadoria\ex41_aposentadoria\bin\Debug\ex41_aposentadoria.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex41_aposentadoria\ex41_aposentadoria\bin\Debug\ex41_aposentadoria.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex41_aposentadoria\ex41_aposentadoria\bin\Debug\ex41_aposentadoria.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex41_aposentadoria\ex41_aposentadoria\obj\Debug\ex41_aposentadoria.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex41_aposentadoria\ex41_aposentadoria\obj\Debug\ex41_aposentadoria.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex41_aposentadoria\ex41_aposentadoria\obj\Debug\ex41_aposentadoria.pdb

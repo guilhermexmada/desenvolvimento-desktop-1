@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex7_mesada\ex7_mesada\bin\Debug\ex7_mesada.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex7_mesada\ex7_mesada\bin\Debug\ex7_mesada.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex7_mesada\ex7_mesada\bin\Debug\ex7_mesada.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex7_mesada\ex7_mesada\obj\Debug\ex7_mesada.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex7_mesada\ex7_mesada\obj\Debug\ex7_mesada.pdb

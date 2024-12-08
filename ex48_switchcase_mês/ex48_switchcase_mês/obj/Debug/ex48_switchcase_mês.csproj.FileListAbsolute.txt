@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_switchcase_mês\ex48_switchcase_mês\bin\Debug\ex48_switchcase_mês.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_switchcase_mês\ex48_switchcase_mês\bin\Debug\ex48_switchcase_mês.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_switchcase_mês\ex48_switchcase_mês\bin\Debug\ex48_switchcase_mês.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_switchcase_mês\ex48_switchcase_mês\obj\Debug\ex48_switchcase_mês.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_switchcase_mês\ex48_switchcase_mês\obj\Debug\ex48_switchcase_mês.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex48_switchcase_mês\ex48_switchcase_mês\obj\Debug\ex48_switchcase_mês.pdb

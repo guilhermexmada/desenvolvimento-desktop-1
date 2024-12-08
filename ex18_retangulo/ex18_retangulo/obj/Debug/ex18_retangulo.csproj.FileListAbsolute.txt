@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex18_retangulo\ex18_retangulo\bin\Debug\ex18_retangulo.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex18_retangulo\ex18_retangulo\bin\Debug\ex18_retangulo.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex18_retangulo\ex18_retangulo\bin\Debug\ex18_retangulo.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex18_retangulo\ex18_retangulo\obj\Debug\ex18_retangulo.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex18_retangulo\ex18_retangulo\obj\Debug\ex18_retangulo.pdb

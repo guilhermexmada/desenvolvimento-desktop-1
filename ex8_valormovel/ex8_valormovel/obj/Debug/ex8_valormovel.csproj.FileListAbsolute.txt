@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_valormovel\ex8_valormovel\bin\Debug\ex8_valormovel.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_valormovel\ex8_valormovel\bin\Debug\ex8_valormovel.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_valormovel\ex8_valormovel\bin\Debug\ex8_valormovel.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_valormovel\ex8_valormovel\obj\Debug\ex8_valormovel.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex8_valormovel\ex8_valormovel\obj\Debug\ex8_valormovel.pdb

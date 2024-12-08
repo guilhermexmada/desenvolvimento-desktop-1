@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\exemploIF_estruturacondicional\exemploIF_estruturacondicional\bin\Debug\exemploIF_estruturacondicional.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\exemploIF_estruturacondicional\exemploIF_estruturacondicional\bin\Debug\exemploIF_estruturacondicional.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\exemploIF_estruturacondicional\exemploIF_estruturacondicional\bin\Debug\exemploIF_estruturacondicional.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\exemploIF_estruturacondicional\exemploIF_estruturacondicional\obj\Debug\exemploIF_estruturacondicional.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\exemploIF_estruturacondicional\exemploIF_estruturacondicional\obj\Debug\exemploIF_estruturacondicional.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\exemploIF_estruturacondicional\exemploIF_estruturacondicional\obj\Debug\exemploIF_estruturacondicional.pdb

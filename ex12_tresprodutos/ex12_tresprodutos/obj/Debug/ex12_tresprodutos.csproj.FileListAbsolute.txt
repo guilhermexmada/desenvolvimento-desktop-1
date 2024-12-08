@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex12_tresprodutos\ex12_tresprodutos\bin\Debug\ex12_tresprodutos.exe.config
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex12_tresprodutos\ex12_tresprodutos\bin\Debug\ex12_tresprodutos.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex12_tresprodutos\ex12_tresprodutos\bin\Debug\ex12_tresprodutos.pdb
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex12_tresprodutos\ex12_tresprodutos\obj\Debug\ex12_tresprodutos.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex12_tresprodutos\ex12_tresprodutos\obj\Debug\ex12_tresprodutos.exe
+C:\Users\ds-mod-1\Desktop\PA_PROFLUIZ\ex12_tresprodutos\ex12_tresprodutos\obj\Debug\ex12_tresprodutos.pdb

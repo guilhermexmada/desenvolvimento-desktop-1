@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex56_sistema_hotel\ex56_sistema_hotel\bin\Debug\ex56_sistema_hotel.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex56_sistema_hotel\ex56_sistema_hotel\bin\Debug\ex56_sistema_hotel.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex56_sistema_hotel\ex56_sistema_hotel\bin\Debug\ex56_sistema_hotel.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex56_sistema_hotel\ex56_sistema_hotel\obj\Debug\ex56_sistema_hotel.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex56_sistema_hotel\ex56_sistema_hotel\obj\Debug\ex56_sistema_hotel.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex56_sistema_hotel\ex56_sistema_hotel\obj\Debug\ex56_sistema_hotel.pdb

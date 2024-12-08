@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex34_diferencamaiormenor\ex34_diferencamaiormenor\bin\Debug\ex34_diferencamaiormenor.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex34_diferencamaiormenor\ex34_diferencamaiormenor\bin\Debug\ex34_diferencamaiormenor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex34_diferencamaiormenor\ex34_diferencamaiormenor\bin\Debug\ex34_diferencamaiormenor.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex34_diferencamaiormenor\ex34_diferencamaiormenor\obj\Debug\ex34_diferencamaiormenor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex34_diferencamaiormenor\ex34_diferencamaiormenor\obj\Debug\ex34_diferencamaiormenor.pdb

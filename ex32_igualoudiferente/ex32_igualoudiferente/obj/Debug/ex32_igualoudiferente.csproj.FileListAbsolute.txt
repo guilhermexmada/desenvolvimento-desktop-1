@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex32_igualoudiferente\ex32_igualoudiferente\bin\Debug\ex32_igualoudiferente.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex32_igualoudiferente\ex32_igualoudiferente\bin\Debug\ex32_igualoudiferente.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex32_igualoudiferente\ex32_igualoudiferente\bin\Debug\ex32_igualoudiferente.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex32_igualoudiferente\ex32_igualoudiferente\obj\Debug\ex32_igualoudiferente.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex32_igualoudiferente\ex32_igualoudiferente\obj\Debug\ex32_igualoudiferente.pdb

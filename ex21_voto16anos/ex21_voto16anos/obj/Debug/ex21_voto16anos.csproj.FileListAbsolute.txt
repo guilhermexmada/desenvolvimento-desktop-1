@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex21_voto16anos\ex21_voto16anos\bin\Debug\ex21_voto16anos.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex21_voto16anos\ex21_voto16anos\bin\Debug\ex21_voto16anos.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex21_voto16anos\ex21_voto16anos\bin\Debug\ex21_voto16anos.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex21_voto16anos\ex21_voto16anos\obj\Debug\ex21_voto16anos.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex21_voto16anos\ex21_voto16anos\obj\Debug\ex21_voto16anos.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex21_voto16anos\ex21_voto16anos\obj\Debug\ex21_voto16anos.pdb

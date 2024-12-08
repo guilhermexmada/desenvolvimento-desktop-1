@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_media_diferenca_produto\excase_media_diferenca_produto\bin\Debug\excase_media_diferenca_produto.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_media_diferenca_produto\excase_media_diferenca_produto\bin\Debug\excase_media_diferenca_produto.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_media_diferenca_produto\excase_media_diferenca_produto\bin\Debug\excase_media_diferenca_produto.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_media_diferenca_produto\excase_media_diferenca_produto\obj\Debug\excase_media_diferenca_produto.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\excase_media_diferenca_produto\excase_media_diferenca_produto\obj\Debug\excase_media_diferenca_produto.pdb

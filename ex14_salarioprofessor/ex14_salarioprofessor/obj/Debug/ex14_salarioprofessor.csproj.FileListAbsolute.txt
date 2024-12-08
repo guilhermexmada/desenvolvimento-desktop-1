@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_salarioprofessor\ex14_salarioprofessor\bin\Debug\ex14_salarioprofessor.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_salarioprofessor\ex14_salarioprofessor\bin\Debug\ex14_salarioprofessor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_salarioprofessor\ex14_salarioprofessor\bin\Debug\ex14_salarioprofessor.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_salarioprofessor\ex14_salarioprofessor\obj\Debug\ex14_salarioprofessor.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex14_salarioprofessor\ex14_salarioprofessor\obj\Debug\ex14_salarioprofessor.pdb

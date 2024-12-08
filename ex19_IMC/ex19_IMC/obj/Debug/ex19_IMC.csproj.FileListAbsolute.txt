@@ -1,0 +1,5 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex19_IMC\ex19_IMC\bin\Debug\ex19_IMC.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex19_IMC\ex19_IMC\bin\Debug\ex19_IMC.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex19_IMC\ex19_IMC\bin\Debug\ex19_IMC.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex19_IMC\ex19_IMC\obj\Debug\ex19_IMC.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\ex19_IMC\ex19_IMC\obj\Debug\ex19_IMC.pdb

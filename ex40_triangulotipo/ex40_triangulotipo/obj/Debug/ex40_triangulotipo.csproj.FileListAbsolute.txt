@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex40_triangulotipo\ex40_triangulotipo\bin\Debug\ex40_triangulotipo.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex40_triangulotipo\ex40_triangulotipo\bin\Debug\ex40_triangulotipo.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex40_triangulotipo\ex40_triangulotipo\bin\Debug\ex40_triangulotipo.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex40_triangulotipo\ex40_triangulotipo\obj\Debug\ex40_triangulotipo.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex40_triangulotipo\ex40_triangulotipo\obj\Debug\ex40_triangulotipo.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\ex40_triangulotipo\ex40_triangulotipo\obj\Debug\ex40_triangulotipo.pdb

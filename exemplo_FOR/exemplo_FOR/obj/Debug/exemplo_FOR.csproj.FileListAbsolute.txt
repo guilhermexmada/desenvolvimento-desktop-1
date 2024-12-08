@@ -1,0 +1,6 @@
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exemplo_FOR\exemplo_FOR\bin\Debug\exemplo_FOR.exe.config
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exemplo_FOR\exemplo_FOR\bin\Debug\exemplo_FOR.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exemplo_FOR\exemplo_FOR\bin\Debug\exemplo_FOR.pdb
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exemplo_FOR\exemplo_FOR\obj\Debug\exemplo_FOR.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exemplo_FOR\exemplo_FOR\obj\Debug\exemplo_FOR.exe
+C:\Users\ds-mod-1\Documents\Meus repositórios\PA_PROFLUIZ\C#\exemplo_FOR\exemplo_FOR\obj\Debug\exemplo_FOR.pdb
